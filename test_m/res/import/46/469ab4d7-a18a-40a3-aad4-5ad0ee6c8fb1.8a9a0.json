@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"CMP_GO1_KA_HEN_L_KAK","json":{"header":{"rate":30,"frame":15,"layer_num":2},"textures":["GO1_ZT_ZUG_00_0001"],"motion":[{"frame":0,"data":[{"code":"add","layer":1,"Control":"14","blend":"NORMAL","tex":"GO1_ZT_ZUG_00_0001","pos":{"x":-300,"y":14}}]}]}}

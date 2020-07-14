@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"CMP_AA08_MISS_MOMO_LP","json":{"header":{"rate":30,"frame":1,"layer_num":1},"textures":["AA08_MISS_MOMO_LP_0001"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"blend":"NORMAL","tex":"AA08_MISS_MOMO_LP_0001","pos":{"x":0,"y":1}}]}]}}

@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"CMP_GA01_OP_CHR_LP_DEF","json":{"header":{"rate":30,"frame":60,"layer_num":1},"textures":["GA01_OP_CHR_LP_DEF"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"blend":"NORMAL","tex":"GA01_OP_CHR_LP_DEF","pos":{"x":-215,"y":-16}}]}]}}

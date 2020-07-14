@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"CMP_GA06_UI_LOGO_LP","json":{"header":{"rate":30,"frame":90,"layer_num":1},"textures":["GA06_UI_LOGO_LP"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"blend":"NORMAL","tex":"GA06_UI_LOGO_LP","pos":{"x":-353,"y":319}}]}]}}

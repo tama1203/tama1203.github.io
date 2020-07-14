@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"CMP_16BTN_AUTO_SETTEI_506","json":{"header":{"rate":30,"frame":30,"layer_num":1},"textures":["16BTN_AUTO_SETTEICHU_0001"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"Control":"2007","blend":"NORMAL","tex":"16BTN_AUTO_SETTEICHU_0001","pos":{"x":0,"y":-122}}]}]}}

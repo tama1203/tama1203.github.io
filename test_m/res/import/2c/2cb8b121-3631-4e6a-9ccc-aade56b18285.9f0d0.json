@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"CMP_GA02_OP_CHO_OOATA_SHORT_LP","json":{"header":{"rate":30,"frame":50,"layer_num":1},"textures":["GA02_OP_CHO_OOATARI_SHORT_LP"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"blend":"NORMAL","tex":"GA02_OP_CHO_OOATARI_SHORT_LP"}]}]}}

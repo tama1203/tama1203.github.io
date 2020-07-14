@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"CMP_GA03_UI_LOGO_LP","json":{"header":{"rate":30,"frame":90,"layer_num":1},"textures":["GA03_TXT_OOATARI_LP"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"blend":"NORMAL","tex":"GA03_TXT_OOATARI_LP","pos":{"x":-393,"y":319}}]}]}}
