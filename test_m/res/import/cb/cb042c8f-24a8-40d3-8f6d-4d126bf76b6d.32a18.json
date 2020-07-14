@@ -1,1 +1,0 @@
-{"__type__":"cc.JsonAsset","_name":"CMP_GS07_ZITAN_END_LP","json":{"header":{"rate":30,"frame":15,"layer_num":2},"textures":["GS07_SYURYOU_0001","GS07_TITLE_0001"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"blend":"NORMAL","tex":"GS07_SYURYOU_0001","pos":{"x":-7,"y":-68}},{"code":"add","layer":1,"blend":"NORMAL","tex":"GS07_TITLE_0001","pos":{"x":-2,"y":75}}]}]}}

@@ -1,1 +1,0 @@
-{"__type__":"cc.JsonAsset","_name":"CMP_GS07_KAKU_2_KETA","json":{"header":{"rate":30,"frame":117,"layer_num":1},"textures":["GS07_NUM_06"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"Control":"165","blend":"NORMAL","tex":"GS07_NUM_06","pos":{"x":95,"y":-228}}]}]}}

@@ -1,1 +1,0 @@
-{"__type__":"cc.JsonAsset","_name":"CMP_GY35_CI_03_AKAGI","json":{"header":{"rate":30,"frame":120,"layer_num":1},"textures":["GY35_AKAGI_CI"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"blend":"NORMAL","tex":"GY35_AKAGI_CI"}]}]}}

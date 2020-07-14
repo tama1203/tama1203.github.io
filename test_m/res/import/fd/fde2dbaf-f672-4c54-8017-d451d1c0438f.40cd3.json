@@ -1,1 +1,0 @@
-{"__type__":"cc.JsonAsset","_name":"CMP_AA05_SHOKAI_BEAR_OUT","json":{"header":{"rate":30,"frame":30,"layer_num":1},"textures":["AA05_SHOKAI_BEAR_OUT"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"blend":"NORMAL","tex":"AA05_SHOKAI_BEAR_OUT"}]}]}}

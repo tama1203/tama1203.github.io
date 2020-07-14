@@ -1,1 +1,0 @@
-{"__type__":"cc.JsonAsset","_name":"CMP_GA12_HANABI_ALL","json":{"header":{"rate":30,"frame":240,"layer_num":5},"textures":["GA12_HANABI_ALL"],"waves":["MO_VO_GO1_GA11_ED_PRE_01_02","MO_VO_GO1_GA12_ED_PRE_02_01","ST_BGM_GO1_GA11_ED_PRE_01","ST_SE_GO1_GA11_ED_PRE_01"],"motion":[{"frame":0,"data":[{"code":"add","layer":4,"blend":"NORMAL","tex":"GA12_HANABI_ALL"}]}]}}

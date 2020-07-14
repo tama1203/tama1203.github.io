@@ -1,1 +1,0 @@
-{"__type__":"cc.JsonAsset","_name":"CMP_GY35_DEMO_MOVIE","json":{"header":{"rate":30,"frame":450,"layer_num":1},"textures":["GY35_DEMO_MOVIE"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"blend":"NORMAL","tex":"GY35_DEMO_MOVIE"}]}]}}
