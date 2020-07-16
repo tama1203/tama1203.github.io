@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"CMP_GO2_TJ_BG_DUMMY","json":{"header":{"rate":30,"frame":375,"layer_num":1},"textures":["GO2_TJ_BG_DUMMY_190906"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"blend":"NORMAL","tex":"GO2_TJ_BG_DUMMY_190906"}]}]}}

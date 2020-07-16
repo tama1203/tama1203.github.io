@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"CMP_GR05_C05_B_3","json":{"header":{"rate":30,"frame":225,"layer_num":1},"textures":["GR05_C05_B_3_FX_ADD"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"blend":"ADD","tex":"GR05_C05_B_3_FX_ADD"}]}]}}

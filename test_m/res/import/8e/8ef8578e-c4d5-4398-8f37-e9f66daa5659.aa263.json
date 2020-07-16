@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"CMP_GO1_KA_UI_ZAN_HR_TOKU_01","json":{"header":{"rate":30,"frame":1,"layer_num":1},"textures":["GO1_KA_UI_ZAN_HR_TOKU_01_04"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"Control":"58","blend":"NORMAL","tex":"GO1_KA_UI_ZAN_HR_TOKU_01_04","pos":{"x":426,"y":-362}}]}]}}

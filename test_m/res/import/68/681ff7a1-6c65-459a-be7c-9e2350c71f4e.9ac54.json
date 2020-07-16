@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"CMP_GO2_UI_COM_ROD","json":{"header":{"rate":30,"frame":1,"layer_num":1},"textures":["GO2_UI_COM_ROD_0001"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"blend":"NORMAL","tex":"GO2_UI_COM_ROD_0001","pos":{"x":0,"y":-196}}]}]}}

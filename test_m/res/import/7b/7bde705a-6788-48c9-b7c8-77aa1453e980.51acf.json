@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"CMP_GA03_MOVIE_LP","json":{"header":{"rate":30,"frame":520,"layer_num":2},"textures":["GA03_MOVIE_LP"],"waves":["ST_BGM_GO1_GA03_R_OOATARI_LOOP"],"motion":[{"frame":0,"data":[{"code":"add","layer":1,"blend":"NORMAL","tex":"GA03_MOVIE_LP"}]}]}}

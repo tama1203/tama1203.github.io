@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"CMP_GS16_STAMP_LP_SILVER","json":{"header":{"rate":30,"frame":1,"layer_num":1},"textures":["GS16_STAMP_SILVER_0001"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"blend":"NORMAL","tex":"GS16_STAMP_SILVER_0001","pos":{"x":373,"y":-231}}]}]}}

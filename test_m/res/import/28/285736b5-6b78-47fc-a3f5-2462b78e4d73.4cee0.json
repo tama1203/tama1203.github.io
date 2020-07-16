@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"CMP_GO1_BTN_AUTO_CHANGE_OFF","json":{"header":{"rate":30,"frame":60,"layer_num":1},"textures":["16BTN_AUTO_CHANGE_OFF_0001"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"Control":"2006","blend":"NORMAL","tex":"16BTN_AUTO_CHANGE_OFF_0001","pos":{"x":-352,"y":-348}}]}]}}
