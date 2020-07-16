@@ -1,1 +1,0 @@
-{"__type__":"cc.JsonAsset","_name":"CMP_GA04_R_RUSH_KAKU_BG","json":{"header":{"rate":30,"frame":1,"layer_num":1},"textures":["GA04_RUSH_BG_02_0001"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"blend":"NORMAL","tex":"GA04_RUSH_BG_02_0001"}]}]}}

@@ -1,1 +1,0 @@
-{"__type__":"cc.JsonAsset","_name":"CMP_GA05_KIWAMI_IN_02","json":{"header":{"rate":30,"frame":90,"layer_num":1},"textures":["GA05_LOGO_KIWAMI_IN_02"],"motion":[{"frame":0,"data":[{"code":"add","layer":0,"blend":"NORMAL","tex":"GA05_LOGO_KIWAMI_IN_02"}]}]}}
